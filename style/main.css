@@ -54,7 +54,7 @@ h1.title {
   position: relative;
   display: inline-block;
   background: #bbada0;
-  padding: 15px 25px;
+  padding: 15px 29px;
   font-size: 25px;
   height: 25px;
   line-height: 47px;
@@ -90,10 +90,10 @@ h1.title {
     animation-fill-mode: both; }
 
 .score-container:after {
-  content: "Score"; }
+  content: "Pointage"; }
 
 .best-container:after {
-  content: "Best"; }
+  content: "Meilleur"; }
 
 p {
   margin-top: 0;
